@@ -1,8 +1,9 @@
-package com.optile.cs.job;
+package com.payoneer.cs.job;
 
-import com.optile.cs.client.Job;
-import com.optile.cs.error.JobException;
 import org.springframework.stereotype.Component;
+
+import com.payoneer.cs.client.Job;
+import com.payoneer.cs.error.JobException;
 
 @Component
 public class LoggingJob extends Job {

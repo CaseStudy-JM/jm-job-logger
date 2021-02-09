@@ -23,8 +23,9 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
+		
 		<dependency>
-			<groupId>com.optile.cs</groupId>
+			<groupId>com.payoneer.cs</groupId>
 			<artifactId>jm-job-starter</artifactId>
 			<version>1.0.0</version>
 		</dependency>
